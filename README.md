@@ -210,13 +210,13 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 
 ---
 
-<p align="center">
-  <img src="https://raw.github.com/buildwithzee/buildwithzee/blob/main/assest/gojo.gif"
-    alt="Gojo" 
-    width="90%" 
-    style="border-radius:12px; box-shadow:0 0 12px rgba(88,166,255,0.3);" 
-  />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/buildwithzee/buildwithzee/main/assets/gojo.gif"
+       alt="Gojo GIF"
+       width="85%"
+       style="border-radius:12px; box-shadow:0 0 12px rgba(88,166,255,0.3);" />
+</div>
+
 
 
 
