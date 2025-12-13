@@ -2,24 +2,48 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7F7FD5,100:FF00FF&height=140&section=header&text=buildwithzee&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" alt="Header" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Student+Software+Engineer+%7C+Fullstack+Developer+%7C+AI+Enthusiast;Building+scalable+architectures+with+clean+code;Turning+caffeine+into+production-ready+systems;Code+is+the+main+quest.+Bugs+are+boss+fights." alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Fullstack+Developer+%7C+AI+Enthusiast;Building+scalable+and+intelligent+systems+with+clean+architecture;Turning+caffeine+into+production-grade+solutions."
+      alt="Typing Animation"
+    />
+  </a>
+</p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=buildwithzee&style=for-the-badge&color=1F6FEB&labelColor=0D1117&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
+<p align="center">
+  <a href="https://github.com/buildwithzee" target="_blank">
+    <img
+      src="https://img.shields.io/badge/⚡_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117&color=1F6FEB"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://instagram.com/zeanprtmaa_" target="_blank">
+    <img
+      src="https://img.shields.io/badge/📸_INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117&color=1F6FEB"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://buildwithzee.github.io" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF&labelColor=0D1117&color=1F6FEB"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="mailto:buildwithzee@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/✉️_CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117&color=1F6FEB"
+      alt="Email"
+    />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buildwithzee&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/buildwithzee"><img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
-  <a href="https://instagram.com/zeanprtmaa target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-</a>
-  <a href="https://buildwithzee.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=0D1117" alt="Portfolio" /></a>
-  <a href="mailto:buildwithzee@gmail.com"><img src="https://img.shields.io/badge/📡_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 <br/>
 
@@ -117,7 +141,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 <div align="center">
 
 ```ascii
-                                ╚═══════════════════════════════ LOADOUT COMPLETE ═══════════════════════════════╝
+╚═══════════════════════════════ LOADOUT COMPLETE ═══════════════════════════════╝
 ```
 
 </div>
@@ -129,37 +153,32 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ## `🕹️ [QUEST_LOG.DAT]`
 
 ```ascii
-                                  ╔═════════════════════════════════════════════════════════════════════════════╗
-                                  ║                                                                             ║
-                                  ║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗ ║
-                                  ║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝ ║
-                                  ║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗║
-                                  ║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║║
-                                  ║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝║
-                                  ║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝ ║
-                                  ║                                                                             ║
-                                  ╠═════════════════════════════════════════════════════════════════════════════╣
-                                  ║                                                                             ║
-                                  ║  [ACTIVE_MISSIONS]                                                          ║
-                                  ║  ├─ PRIMARY     → Build scalable fullstack architectures                   ║
-                                  ║  ├─ SECONDARY   → Train & deploy AI-powered features                       ║
-                                  ║  └─ ONGOING     → Master clean code & system design patterns               ║
-                                  ║                                                                             ║
-                                  ║  [COMBAT_MECHANICS]                                                         ║
-                                  ║  ├─ CODE        → Main quest progression                                   ║
-                                  ║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                  ║
-                                  ║  ├─ REFACTOR    → Skill tree upgrades                                      ║
-                                  ║  └─ AI_TOOLS    → Summoned companions & force multipliers                  ║
-                                  ║                                                                             ║
-                                  ║  [EXPERIENCE]                                                               ║
-                                  ║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level               ║
-                                  ║                                                                             ║
-                                  ║  [ACTIVE_BUFFS]                                                             ║
-                                  ║  ├─ ☕ Caffeine Protocol... ACTIVE                                          ║
-                                  ║  ├─ 🎧 Focus Mode.......... ACTIVE                                          ║
-                                  ║  └─ 🔥 Flow State.......... ACTIVE                                          ║
-                                  ║                                                                             ║
-                                  ╚═════════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
+║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗  ║
+║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝  ║
+║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗ ║
+║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║ ║
+║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝ ║
+║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝  ║
+║                                                                             ║
+╠═════════════════════════════════════════════════════════════════════════════╣
+║                                                                             ║
+║  [ACTIVE_MISSIONS]                                                          ║
+║  ├─ PRIMARY     → Build scalable fullstack architectures                    ║
+║  ├─ SECONDARY   → Train & deploy AI-powered features                        ║
+║  └─ ONGOING     → Master clean code & system design patterns                ║
+║                                                                             ║
+║  [COMBAT_MECHANICS]                                                         ║
+║  ├─ CODE        → Main quest progression                                    ║
+║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                   ║
+║  ├─ REFACTOR    → Skill tree upgrades                                       ║
+║  └─ AI_TOOLS    → Summoned companions & force multipliers                   ║
+║                                                                             ║
+║  [EXPERIENCE]                                                               ║
+║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level                ║
+║                                                                             ║
+╚═════════════════════════════════════════════════════════════════════════════╝
   ```
 
 </div>
@@ -171,9 +190,9 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ## `📊 [ANALYTICS_DASHBOARD.EXE]`
 
 ```ascii
-                                ╔══════════════════════════════════════════════════════════════════════════════╗
-                                ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PERFORMANCE METRICS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
-                                ╚══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PERFORMANCE METRICS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=buildwithzee&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
@@ -184,7 +203,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithzee&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=7F7FD5&point=FF00FF&border_radius=8" width="98%" />
 
 ```ascii
-                                ╚════════════════════════════════ STATS LOADED ════════════════════════════════╝
+╚════════════════════════════════ STATS LOADED ════════════════════════════════╝
 ```
 
 </div>
@@ -279,31 +298,49 @@ class MLDeploymentAPI:
 <div align="center">
 
 ```ascii
-                                ╔═══════════════════════════════════════════════════════════════════════════╗
-                                ║                                                                           ║
-                                ║       ███████╗██╗  ██╗██╗   ██╗████████╗██████╗  ██████╗ ██╗  ██╗███╗   ██╗
-                                ║       ██╔════╝██║  ██║██║   ██║╚══██╔══╝██╔══██╗██╔═══██╗██║  ██║████╗  ██║
-                                ║       ███████╗███████║██║   ██║   ██║   ██║  ██║██║   ██║██║  ██║██╔██╗ ██║
-                                ║       ╚════██║██╔══██║██║   ██║   ██║   ██║  ██║██║   ██║╚██╗██╔╝██║╚██╗██║
-                                ║       ███████║██║  ██║╚██████╔╝   ██║   ██████╔╝╚██████╔╝ ╚███╔╝ ██║ ╚████║
-                                ║       ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═════╝  ╚═════╝   ╚══╝  ╚═╝  ╚═══╝
-                                ║                                                                           ║
-                                ╠═══════════════════════════════════════════════════════════════════════════╣
-                                ║                                                                           ║
-                                ║  [SYSTEM_STATUS]: ████████████████████████ ONLINE                         ║
-                                ║  [QUEST_STATE]:   READY_FOR_NEXT_MISSION                                  ║
-                                ║  [AVAILABILITY]:  ACCEPTING_NEW_CHALLENGES                                ║
-                                ║                                                                           ║
-                                ║  > PRESS_START_TO_CONTINUE_                                               ║
-                                ║                                                                           ║
-                                ╚═══════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║       ███████╗██╗  ██╗██╗   ██╗████████╗██████╗  ██████╗ ██╗  ██╗███╗   ██╗
+║       ██╔════╝██║  ██║██║   ██║╚══██╔══╝██╔══██╗██╔═══██╗██║  ██║████╗  ██║
+║       ███████╗███████║██║   ██║   ██║   ██║  ██║██║   ██║██║  ██║██╔██╗ ██║
+║       ╚════██║██╔══██║██║   ██║   ██║   ██║  ██║██║   ██║╚██╗██╔╝██║╚██╗██║
+║       ███████║██║  ██║╚██████╔╝   ██║   ██████╔╝╚██████╔╝ ╚███╔╝ ██║ ╚████║
+║       ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═════╝  ╚═════╝   ╚══╝  ╚═╝  ╚═══╝
+║                                                                           ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║                                                                           ║
+║  [SYSTEM_STATUS]: ████████████████████████ ONLINE                         ║
+║  [QUEST_STATE]:   READY_FOR_NEXT_MISSION                                  ║
+║  [AVAILABILITY]:  ACCEPTING_NEW_CHALLENGES                                ║
+║                                                                           ║
+║  > PRESS_START_TO_CONTINUE_                                               ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 **Let's build something epic together.**
 
-<a href="https://github.com/buildwithzee"><img src="https://img.shields.io/github/followers/buildwithzee?label=FOLLOW&style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF" /></a>
-<a href="https://linkedin.com/in/buildwithzee"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117" /></a>
-<a href="https://twitter.com/buildwithzee"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00D9FF&labelColor=0D1117" /></a>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/buildwithzee" target="_blank">
+    <img
+      src="https://img.shields.io/github/followers/buildwithzee?label=GITHUB&style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://linkedin.com/in/buildwithzee" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://instagram.com/zeanprtmaa_" target="_blank">
+    <img
+      src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"
+      alt="Instagram"
+    />
+  </a>
+</div>
+</a>
 
 </div>
 
