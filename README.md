@@ -56,9 +56,9 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ## `⚔️ [SKILL_MATRIX.SYS]`
 
 ```ascii
-                                ╔═══════════════════════════════════════════════════════════════════════╗
-                                ║  INITIALIZING COMBAT LOADOUT...                        [████████] 100% ║
-                                ╚═══════════════════════════════════════════════════════════════════════╝
+                        ╔═══════════════════════════════════════════════════════════════════════╗
+                        ║  INITIALIZING COMBAT LOADOUT...                        [████████] 100% ║
+                        ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -129,38 +129,38 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ## `🕹️ [QUEST_LOG.DAT]`
 
 ```ascii
-                                ╔═════════════════════════════════════════════════════════════════════════════╗
-                                ║                                                                             ║
-                                ║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗ ║
-                                ║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝ ║
-                                ║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗║
-                                ║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║║
-                                ║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝║
-                                ║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝ ║
-                                ║                                                                             ║
-                                ╠═════════════════════════════════════════════════════════════════════════════╣
-                                ║                                                                             ║
-                                ║  [ACTIVE_MISSIONS]                                                          ║
-                                ║  ├─ PRIMARY     → Build scalable fullstack architectures                   ║
-                                ║  ├─ SECONDARY   → Train & deploy AI-powered features                       ║
-                                ║  └─ ONGOING     → Master clean code & system design patterns               ║
-                                ║                                                                             ║
-                                ║  [COMBAT_MECHANICS]                                                         ║
-                                ║  ├─ CODE        → Main quest progression                                   ║
-                                ║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                  ║
-                                ║  ├─ REFACTOR    → Skill tree upgrades                                      ║
-                                ║  └─ AI_TOOLS    → Summoned companions & force multipliers                  ║
-                                ║                                                                             ║
-                                ║  [EXPERIENCE]                                                               ║
-                                ║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level               ║
-                                ║                                                                             ║
-                                ║  [ACTIVE_BUFFS]                                                             ║
-                                ║  ├─ ☕ Caffeine Protocol... ACTIVE                                          ║
-                                ║  ├─ 🎧 Focus Mode.......... ACTIVE                                          ║
-                                ║  └─ 🔥 Flow State.......... ACTIVE                                          ║
-                                ║                                                                             ║
-                                ╚═════════════════════════════════════════════════════════════════════════════╝
-```
+                                  ╔═════════════════════════════════════════════════════════════════════════════╗
+                                  ║                                                                             ║
+                                  ║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗ ║
+                                  ║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝ ║
+                                  ║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗║
+                                  ║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║║
+                                  ║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝║
+                                  ║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝ ║
+                                  ║                                                                             ║
+                                  ╠═════════════════════════════════════════════════════════════════════════════╣
+                                  ║                                                                             ║
+                                  ║  [ACTIVE_MISSIONS]                                                          ║
+                                  ║  ├─ PRIMARY     → Build scalable fullstack architectures                   ║
+                                  ║  ├─ SECONDARY   → Train & deploy AI-powered features                       ║
+                                  ║  └─ ONGOING     → Master clean code & system design patterns               ║
+                                  ║                                                                             ║
+                                  ║  [COMBAT_MECHANICS]                                                         ║
+                                  ║  ├─ CODE        → Main quest progression                                   ║
+                                  ║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                  ║
+                                  ║  ├─ REFACTOR    → Skill tree upgrades                                      ║
+                                  ║  └─ AI_TOOLS    → Summoned companions & force multipliers                  ║
+                                  ║                                                                             ║
+                                  ║  [EXPERIENCE]                                                               ║
+                                  ║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level               ║
+                                  ║                                                                             ║
+                                  ║  [ACTIVE_BUFFS]                                                             ║
+                                  ║  ├─ ☕ Caffeine Protocol... ACTIVE                                          ║
+                                  ║  ├─ 🎧 Focus Mode.......... ACTIVE                                          ║
+                                  ║  └─ 🔥 Flow State.......... ACTIVE                                          ║
+                                  ║                                                                             ║
+                                  ╚═════════════════════════════════════════════════════════════════════════════╝
+  ```
 
 </div>
 
