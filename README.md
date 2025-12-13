@@ -198,7 +198,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 <img src="https://github-readme-stats.vercel.app/api?username=buildwithzee&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithzee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithzee&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=8" width="49%" />
+<img src="https://streak-stats.vercel.app?user=buildwithzee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&border_radius=8" width="49%" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithzee&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=7F7FD5&point=FF00FF&border_radius=8" width="98%" />
 
@@ -210,85 +210,15 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk2cG9sa2FudWlkMmU0OWRyYXExYW9rMWtxcXUwd2prYmU3cWk1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif"
+    alt="Mission Archive Animation" 
+    width="90%" 
+    style="border-radius:12px; box-shadow:0 0 12px rgba(88,166,255,0.3);" 
+  />
+</p>
 
-## `🎯 [MISSION_ARCHIVE.LOG]`
 
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        
-```typescript
-// MISSION_01.ts
-export const project = {
-  id: "MISSION_001",
-  name: "🚀 AI Task Manager",
-  class: "CRITICAL",
-  description: `
-    Smart productivity platform with
-    AI-powered task prioritization
-    and intelligent scheduling.
-  `,
-  stack: [
-    "Next.js",
-    "TypeScript", 
-    "OpenAI API",
-    "PostgreSQL"
-  ],
-  status: "DEPLOYED"
-};
-```
-        
-        
-```typescript
-// MISSION_02.ts
-export const project = {
-  id: "MISSION_002",
-  name: "🎮 Realtime Chat Hub",
-  class: "HIGH_PRIORITY",
-  description: `
-    Scalable WebSocket chat system
-    with Redis pub/sub architecture
-    for high-throughput messaging.
-  `,
-  stack: [
-    "Node.js",
-    "Socket.io",
-    "Redis",
-    "React"
-  ],
-  status: "DEPLOYED"
-};
-```
-        
-        
-```python
-# MISSION_03.py
-class MLDeploymentAPI:
-    """FastAPI service for serving trained ML models at scale"""
-    
-    mission_id = "MISSION_003"
-    name = "🤖 ML Model Deployment API"
-    classification = "EXPERIMENTAL"
-    
-    stack = ["Python", "FastAPI", "TensorFlow", "Docker", "K8s"]
-    status = "ACTIVE_DEVELOPMENT"
-    
-    @staticmethod
-    def description():
-        return """
-        Production-ready API for deploying and serving
-        machine learning models with auto-scaling and
-        real-time inference capabilities.
-        """
-```
-        
-      
-  </table>
-</div>
 
 ---
 
