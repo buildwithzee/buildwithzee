@@ -1,58 +1,27 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7F7FD5,100:FF00FF&height=140&section=header&text=ZEE&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" alt="Header" />
+</p>
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ SYSTEM BOOT SEQUENCE ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Student+Software+Engineer+%7C+Fullstack+Developer+%7C+AI+Enthusiast;Building+scalable+architectures+with+clean+code;Turning+caffeine+into+production-ready+systems;Code+is+the+main+quest.+Bugs+are+boss+fights." alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=buildwithzee&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
+</p>
 
-<pre>
-███████╗███████╗███████╗
-╚══███╔╝██╔════╝██╔════╝
-  ███╔╝ █████╗  █████╗  
- ███╔╝  ██╔══╝  ██╔══╝  
-███████╗███████╗███████╗
-╚══════╝╚══════╝╚══════╝
-</pre>
+<p align="center">
+  <a href="https://github.com/buildwithzee"><img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
+  <a href="https://instagram.com/zeanprtmaa target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
+  <a href="https://buildwithzee.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=0D1117" alt="Portfolio" /></a>
+  <a href="mailto:buildwithzee@gmail.com"><img src="https://img.shields.io/badge/📡_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-**`[ CLASS: FULLSTACK_ENGINEER ] [ SPEC: AI_SYSTEMS ] [ STATUS: ACTIVE ]`**
-
-```diff
-+ MISSION: Turning caffeine into scalable systems, one commit at a time.
-```
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YOUR_USERNAME">
-        <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=00D9FF" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://YOUR_PORTFOLIO">
-        <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=0D1117" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/📡_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-```ascii
-╚═══════════════════════════════ INITIALIZATION COMPLETE ═══════════════════════════════╝
-```
-
-</div>
+<br/>
 
 ---
 
@@ -65,7 +34,13 @@
 [STATUS]: Connection established
 ```
 
-**Welcome, Recruiter.** I'm **YOUR_NAME** — a Computer Science student engineering fullstack systems and AI-powered solutions. I operate at the intersection of clean architecture, pragmatic problem-solving, and continuous learning. My approach: build real projects, understand core principles, and optimize for impact. Currently upgrading my software engineering capabilities through scalable applications and system design deep-dives.
+</div>
+
+<p align="center">
+Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fullstack systems and explores AI-powered solutions. I believe in clean architecture, pragmatic problem-solving, and learning through building real projects. Currently leveling up my software engineering skills by crafting scalable applications and diving deep into system design. Always looking for the next challenge.
+</p>
+
+<div align="center">
 
 ```yaml
 [PROFILE]: Data retrieved successfully
@@ -81,72 +56,68 @@
 ## `⚔️ [SKILL_MATRIX.SYS]`
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════════╗
-║  INITIALIZING COMBAT LOADOUT...                        [████████] 100% ║
-╚═══════════════════════════════════════════════════════════════════════╝
+    ╔═══════════════════════════════════════════════════════════════════════╗
+    ║  INITIALIZING COMBAT LOADOUT...                        [████████] 100% ║
+    ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-<table>
-<tr>
-<td align="center" width="25%">
+</div>
 
-```yaml
->> LANGUAGES
-```
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python" /><br>
-<img src="https://skillicons.dev/icons?i=java,cpp" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-%20-00D9FF?style=for-the-badge" alt="Languages" />
+</p>
 
-</td>
-<td align="center" width="25%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp&theme=dark" alt="Languages" />
+</p>
 
-```yaml
->> FRONTEND
-```
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-%20-7F7FD5?style=for-the-badge" alt="Frontend" />
+</p>
 
-</td>
-<td align="center" width="25%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vue,vite&theme=dark" alt="Frontend" />
+</p>
 
-```yaml
->> BACKEND
-```
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /><br>
-<img src="https://skillicons.dev/icons?i=django,prisma" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-%20-FF00FF?style=for-the-badge" alt="Backend" />
+</p>
 
-</td>
-<td align="center" width="25%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,prisma,laravel&theme=dark" alt="Backend" />
+</p>
 
-```yaml
->> DATABASE
-```
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-%20-00FF9F?style=for-the-badge" alt="Database" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase,&theme=dark" alt="Database" />
+</p>
 
-```yaml
->> DEVOPS_&_TOOLS
-```
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman,github" />
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-%20-86A8E7?style=for-the-badge" alt="DevOps" />
+</p>
 
-</td>
-<td align="center" colspan="2">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,windows,vscode,github,ai&theme=dark" alt="DevOps" />
+</p>
 
-```yaml
->> AI_/_ML
-```
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-%20-BB86FC?style=for-the-badge" alt="AI/ML" />
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&theme=dark" alt="AI/ML" />
+  <br/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+<div align="center">
 
 ```ascii
-╚═══════════════════════════════ LOADOUT COMPLETE ═══════════════════════════════╝
+    ╚═══════════════════════════════ LOADOUT COMPLETE ═══════════════════════════════╝
 ```
 
 </div>
@@ -158,37 +129,37 @@
 ## `🕹️ [QUEST_LOG.DAT]`
 
 ```ascii
-╔═════════════════════════════════════════════════════════════════════════════╗
-║                                                                             ║
-║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗ ║
-║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝ ║
-║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗║
-║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║║
-║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝║
-║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝ ║
-║                                                                             ║
-╠═════════════════════════════════════════════════════════════════════════════╣
-║                                                                             ║
-║  [ACTIVE_MISSIONS]                                                          ║
-║  ├─ PRIMARY     → Build scalable fullstack architectures                   ║
-║  ├─ SECONDARY   → Train & deploy AI-powered features                       ║
-║  └─ ONGOING     → Master clean code & system design patterns               ║
-║                                                                             ║
-║  [COMBAT_MECHANICS]                                                         ║
-║  ├─ CODE        → Main quest progression                                   ║
-║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                  ║
-║  ├─ REFACTOR    → Skill tree upgrades                                      ║
-║  └─ AI_TOOLS    → Summoned companions & force multipliers                  ║
-║                                                                             ║
-║  [EXPERIENCE]                                                               ║
-║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level               ║
-║                                                                             ║
-║  [ACTIVE_BUFFS]                                                             ║
-║  ├─ ☕ Caffeine Protocol... ACTIVE                                          ║
-║  ├─ 🎧 Focus Mode.......... ACTIVE                                          ║
-║  └─ 🔥 Flow State.......... ACTIVE                                          ║
-║                                                                             ║
-╚═════════════════════════════════════════════════════════════════════════════╝
+        ╔═════════════════════════════════════════════════════════════════════════════╗
+        ║                                                                             ║
+        ║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗ ║
+        ║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝ ║
+        ║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗║
+        ║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║║
+        ║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝║
+        ║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝ ║
+        ║                                                                             ║
+        ╠═════════════════════════════════════════════════════════════════════════════╣
+        ║                                                                             ║
+        ║  [ACTIVE_MISSIONS]                                                          ║
+        ║  ├─ PRIMARY     → Build scalable fullstack architectures                   ║
+        ║  ├─ SECONDARY   → Train & deploy AI-powered features                       ║
+        ║  └─ ONGOING     → Master clean code & system design patterns               ║
+        ║                                                                             ║
+        ║  [COMBAT_MECHANICS]                                                         ║
+        ║  ├─ CODE        → Main quest progression                                   ║
+        ║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                  ║
+        ║  ├─ REFACTOR    → Skill tree upgrades                                      ║
+        ║  └─ AI_TOOLS    → Summoned companions & force multipliers                  ║
+        ║                                                                             ║
+        ║  [EXPERIENCE]                                                               ║
+        ║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level               ║
+        ║                                                                             ║
+        ║  [ACTIVE_BUFFS]                                                             ║
+        ║  ├─ ☕ Caffeine Protocol... ACTIVE                                          ║
+        ║  ├─ 🎧 Focus Mode.......... ACTIVE                                          ║
+        ║  └─ 🔥 Flow State.......... ACTIVE                                          ║
+        ║                                                                             ║
+        ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -200,19 +171,20 @@
 ## `📊 [ANALYTICS_DASHBOARD.EXE]`
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PERFORMANCE METRICS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+        ╔══════════════════════════════════════════════════════════════════════════════╗
+        ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PERFORMANCE METRICS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
+        ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=buildwithzee&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithzee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&border_radius=8" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithzee&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=8" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithzee&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=7F7FD5&point=FF00FF&border_radius=8" width="98%" />
 
 ```ascii
-╚════════════════════════════════ STATS LOADED ════════════════════════════════╝
+        ╚════════════════════════════════ STATS LOADED ════════════════════════════════╝
 ```
 
 </div>
@@ -223,10 +195,13 @@
 
 ## `🎯 [MISSION_ARCHIVE.LOG]`
 
-<table>
-<tr>
-<td width="50%">
+</div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        
 ```typescript
 // MISSION_01.ts
 export const project = {
@@ -247,10 +222,10 @@ export const project = {
   status: "DEPLOYED"
 };
 ```
-
-</td>
-<td width="50%">
-
+        
+    </td>
+    <td width="50%">
+        
 ```typescript
 // MISSION_02.ts
 export const project = {
@@ -271,12 +246,12 @@ export const project = {
   status: "DEPLOYED"
 };
 ```
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
+        
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        
 ```python
 # MISSION_03.py
 class MLDeploymentAPI:
@@ -297,11 +272,10 @@ class MLDeploymentAPI:
         real-time inference capabilities.
         """
 ```
-
-</td>
-</tr>
-</table>
-
+        
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -368,50 +342,6 @@ class MLDeploymentAPI:
 
 <div align="center">
 
-## `🌐 [CONNECTION_PROTOCOL.INIT]`
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  ESTABLISHING SECURE CONNECTION...                                        ║
-║  > Handshake protocol: COLLABORATION_v2                                   ║
-║  > Encryption: END_TO_END                                                 ║
-║  > Status: READY_FOR_TRANSMISSION                                         ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-**TRANSMISSION:** Let's build something epic together.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YOUR_USERNAME">
-        <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOW&style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/YOUR_TWITTER">
-        <img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00D9FF&labelColor=0D1117" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://discord.com/users/YOUR_DISCORD">
-        <img src="https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=for-the-badge&logo=discord&logoColor=00D9FF&labelColor=0D1117" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
@@ -433,12 +363,14 @@ class MLDeploymentAPI:
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
+**Let's build something epic together.**
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║ >> EOF                                                                    ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/buildwithzee"><img src="https://img.shields.io/github/followers/buildwithzee?label=FOLLOW&style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF" /></a>
+<a href="https://linkedin.com/in/buildwithzee"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117" /></a>
+<a href="https://twitter.com/buildwithzee"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00D9FF&labelColor=0D1117" /></a>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:7F7FD5,100:00D9FF&height=120&section=footer" alt="Footer" />
+</p>
