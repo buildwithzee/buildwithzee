@@ -211,8 +211,8 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ---
 
 <p align="center">
-  <img src="https://pin.it/672h5Xxzt"
-    alt="Mission Archive Animation" 
+  <img src="https://raw.github.com/buildwithzee/buildwithzee/blob/main/assest/gojo.gif"
+    alt="Gojo" 
     width="90%" 
     style="border-radius:12px; box-shadow:0 0 12px rgba(88,166,255,0.3);" 
   />
