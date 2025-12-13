@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
-<pre align="center">
+<pre>
 ███████╗███████╗███████╗
 ╚══███╔╝██╔════╝██╔════╝
   ███╔╝ █████╗  █████╗  
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/buildwithzee">
+      <a href="https://github.com/YOUR_USERNAME">
         <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=00D9FF" />
       </a>
     </td>
@@ -41,7 +41,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:buildwithzee@gmail.com">
+      <a href="mailto:your.email@example.com">
         <img src="https://img.shields.io/badge/📡_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
@@ -56,6 +56,8 @@
 
 ---
 
+<div align="center">
+
 ## `>_ PLAYER.PROFILE.LOAD()`
 
 ```yaml
@@ -63,12 +65,14 @@
 [STATUS]: Connection established
 ```
 
-**Welcome, Recruiter.** I'm **Zean Ananda Pratama** — a Computer Science student engineering fullstack systems and AI-powered solutions. I operate at the intersection of clean architecture, pragmatic problem-solving, and continuous learning. My approach: build real projects, understand core principles, and optimize for impact. Currently upgrading my software engineering capabilities through scalable applications and system design deep-dives.
+**Welcome, Recruiter.** I'm **YOUR_NAME** — a Computer Science student engineering fullstack systems and AI-powered solutions. I operate at the intersection of clean architecture, pragmatic problem-solving, and continuous learning. My approach: build real projects, understand core principles, and optimize for impact. Currently upgrading my software engineering capabilities through scalable applications and system design deep-dives.
 
 ```yaml
 [PROFILE]: Data retrieved successfully
 [NEXT]: Loading skill matrix...
 ```
+
+</div>
 
 ---
 
@@ -82,9 +86,7 @@
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td align="center" width="25%">
 
@@ -118,7 +120,7 @@
 ```yaml
 >> DATABASE
 ```
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
 
 </td>
 </tr>
@@ -143,8 +145,6 @@
 </tr>
 </table>
 
-<div align="center">
-
 ```ascii
 ╚═══════════════════════════════ LOADOUT COMPLETE ═══════════════════════════════╝
 ```
@@ -153,9 +153,9 @@
 
 ---
 
-## `🕹️ [QUEST_LOG.DAT]`
-
 <div align="center">
+
+## `🕹️ [QUEST_LOG.DAT]`
 
 ```ascii
 ╔═════════════════════════════════════════════════════════════════════════════╗
@@ -205,11 +205,11 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=buildwithzee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithzee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithzee&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithzee&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&border_radius=8" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&border_radius=8" width="98%" />
 
 ```ascii
 ╚════════════════════════════════ STATS LOADED ════════════════════════════════╝
@@ -218,6 +218,8 @@
 </div>
 
 ---
+
+<div align="center">
 
 ## `🎯 [MISSION_ARCHIVE.LOG]`
 
@@ -300,7 +302,11 @@ class MLDeploymentAPI:
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `🎮 [CURRENT_OBJECTIVES.SYS]`
 
@@ -356,6 +362,8 @@ class MLDeploymentAPI:
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
@@ -376,14 +384,14 @@ class MLDeploymentAPI:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/buildwithzee">
-        <img src="https://img.shields.io/github/followers/buildwithzee?label=FOLLOW&style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF" />
+      <a href="https://github.com/YOUR_USERNAME">
+        <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOW&style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF" />
       </a>
     </td>
     <td align="center">
-      <a href="https://instagram.com/zeanprtmaa_">
-        <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram Badge" />
-    </a>
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117" />
+      </a>
     </td>
     <td align="center">
       <a href="https://twitter.com/YOUR_TWITTER">
@@ -391,7 +399,7 @@ class MLDeploymentAPI:
       </a>
     </td>
     <td align="center">
-      <a href="https://discord.com/users/sirzeechs.">
+      <a href="https://discord.com/users/YOUR_DISCORD">
         <img src="https://img.shields.io/badge/DISCORD-JOIN-5865F2?style=for-the-badge&logo=discord&logoColor=00D9FF&labelColor=0D1117" />
       </a>
     </td>
@@ -425,7 +433,7 @@ class MLDeploymentAPI:
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=buildwithzee&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
