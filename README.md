@@ -56,9 +56,9 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ## `⚔️ [SKILL_MATRIX.SYS]`
 
 ```ascii
-          ╔═══════════════════════════════════════════════════════════════════════╗
-          ║  INITIALIZING COMBAT LOADOUT...                        [████████] 100% ║
-          ╚═══════════════════════════════════════════════════════════════════════╝
+                                ╔═══════════════════════════════════════════════════════════════════════╗
+                                ║  INITIALIZING COMBAT LOADOUT...                        [████████] 100% ║
+                                ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -117,7 +117,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 <div align="center">
 
 ```ascii
-    ╚═══════════════════════════════ LOADOUT COMPLETE ═══════════════════════════════╝
+                      ╚═══════════════════════════════ LOADOUT COMPLETE ═══════════════════════════════╝
 ```
 
 </div>
@@ -129,37 +129,37 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ## `🕹️ [QUEST_LOG.DAT]`
 
 ```ascii
-                  ╔═════════════════════════════════════════════════════════════════════════════╗
-                  ║                                                                             ║
-                  ║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗ ║
-                  ║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝ ║
-                  ║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗║
-                  ║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║║
-                  ║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝║
-                  ║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝ ║
-                  ║                                                                             ║
-                  ╠═════════════════════════════════════════════════════════════════════════════╣
-                  ║                                                                             ║
-                  ║  [ACTIVE_MISSIONS]                                                          ║
-                  ║  ├─ PRIMARY     → Build scalable fullstack architectures                   ║
-                  ║  ├─ SECONDARY   → Train & deploy AI-powered features                       ║
-                  ║  └─ ONGOING     → Master clean code & system design patterns               ║
-                  ║                                                                             ║
-                  ║  [COMBAT_MECHANICS]                                                         ║
-                  ║  ├─ CODE        → Main quest progression                                   ║
-                  ║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                  ║
-                  ║  ├─ REFACTOR    → Skill tree upgrades                                      ║
-                  ║  └─ AI_TOOLS    → Summoned companions & force multipliers                  ║
-                  ║                                                                             ║
-                  ║  [EXPERIENCE]                                                               ║
-                  ║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level               ║
-                  ║                                                                             ║
-                  ║  [ACTIVE_BUFFS]                                                             ║
-                  ║  ├─ ☕ Caffeine Protocol... ACTIVE                                          ║
-                  ║  ├─ 🎧 Focus Mode.......... ACTIVE                                          ║
-                  ║  └─ 🔥 Flow State.......... ACTIVE                                          ║
-                  ║                                                                             ║
-                  ╚═════════════════════════════════════════════════════════════════════════════╝
+                        ╔═════════════════════════════════════════════════════════════════════════════╗
+                        ║                                                                             ║
+                        ║    ██████╗ ██╗   ██╗███████╗███████╗████████╗    ██╗      ██████╗  ██████╗ ║
+                        ║   ██╔═══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██║     ██╔═══██╗██╔════╝ ║
+                        ║   ██║   ██║██║   ██║█████╗  ███████╗   ██║       ██║     ██║   ██║██║  ███╗║
+                        ║   ██║▄▄ ██║██║   ██║██╔══╝  ╚════██║   ██║       ██║     ██║   ██║██║   ██║║
+                        ║   ╚██████╔╝╚██████╔╝███████╗███████║   ██║       ███████╗╚██████╔╝╚██████╔╝║
+                        ║    ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝ ║
+                        ║                                                                             ║
+                        ╠═════════════════════════════════════════════════════════════════════════════╣
+                        ║                                                                             ║
+                        ║  [ACTIVE_MISSIONS]                                                          ║
+                        ║  ├─ PRIMARY     → Build scalable fullstack architectures                   ║
+                        ║  ├─ SECONDARY   → Train & deploy AI-powered features                       ║
+                        ║  └─ ONGOING     → Master clean code & system design patterns               ║
+                        ║                                                                             ║
+                        ║  [COMBAT_MECHANICS]                                                         ║
+                        ║  ├─ CODE        → Main quest progression                                   ║
+                        ║  ├─ BUGS        → Boss encounters (Dark Souls difficulty)                  ║
+                        ║  ├─ REFACTOR    → Skill tree upgrades                                      ║
+                        ║  └─ AI_TOOLS    → Summoned companions & force multipliers                  ║
+                        ║                                                                             ║
+                        ║  [EXPERIENCE]                                                               ║
+                        ║  └─ STATUS      → [ ████████████████░░░░ ] 80% to next level               ║
+                        ║                                                                             ║
+                        ║  [ACTIVE_BUFFS]                                                             ║
+                        ║  ├─ ☕ Caffeine Protocol... ACTIVE                                          ║
+                        ║  ├─ 🎧 Focus Mode.......... ACTIVE                                          ║
+                        ║  └─ 🔥 Flow State.......... ACTIVE                                          ║
+                        ║                                                                             ║
+                        ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -171,9 +171,9 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 ## `📊 [ANALYTICS_DASHBOARD.EXE]`
 
 ```ascii
-        ╔══════════════════════════════════════════════════════════════════════════════╗
-        ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PERFORMANCE METRICS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
-        ╚══════════════════════════════════════════════════════════════════════════════╝
+              ╔══════════════════════════════════════════════════════════════════════════════╗
+              ║ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PERFORMANCE METRICS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ║
+              ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=buildwithzee&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=8" width="49%" />
@@ -184,7 +184,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithzee&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=7F7FD5&point=FF00FF&border_radius=8" width="98%" />
 
 ```ascii
-        ╚════════════════════════════════ STATS LOADED ════════════════════════════════╝
+                ╚════════════════════════════════ STATS LOADED ════════════════════════════════╝
 ```
 
 </div>
@@ -310,8 +310,6 @@ class MLDeploymentAPI:
 ! API ecosystem projects
 ```
 
-</td>
-<td width="33%">
 
 ```yaml
 >> COLLABORATION_MODE
