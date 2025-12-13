@@ -210,13 +210,13 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/buildwithzee/buildwithzee/main/assets/gojo.gif"
-       alt="Gojo GIF"
-       width="85%"
-       style="border-radius:12px; box-shadow:0 0 12px rgba(88,166,255,0.3);" />
-</div>
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnk2cG9sa2FudWlkMmU0OWRyYXExYW9rMWtxcXUwd2prYmU3cWk1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif"
+    alt="Mission Archive Animation" 
+    width="90%" 
+    style="border-radius:12px; box-shadow:0 0 12px rgba(88,166,255,0.3);" 
+  />
+</p>
 
 
 
