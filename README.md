@@ -108,7 +108,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,prisma,laravel&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,prisma,laravel&theme=dark" alt="Backend" />
 </p>
 
 <p align="center">
