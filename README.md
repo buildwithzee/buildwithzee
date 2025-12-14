@@ -92,7 +92,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,kotlin,php&theme=dark" alt="Languages" />
 </p>
 
 <p align="center">
