@@ -124,7 +124,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,windows,vscode,github,ai&theme=dark" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,windows,vscode,github,figma,ai&theme=dark" alt="DevOps" />
 </p>
 
 <p align="center">
