@@ -18,7 +18,7 @@
   />
 </p>
 <p align="center">
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/buildwithzee" target="_blank">
     <img
       src="https://img.shields.io/badge/⚡_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117&color=1F6FEB"
       alt="GitHub"
@@ -30,7 +30,7 @@
       alt="Instagram"
     />
   </a>
-  <a href="https://buildwithzee.github.io" target="_blank">
+  <a href="" target="_blank">
     <img
       src="https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF&labelColor=0D1117&color=1F6FEB"
       alt="Portfolio"
