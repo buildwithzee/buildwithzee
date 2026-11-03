@@ -92,7 +92,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,kotlin,php&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,php&theme=dark" alt="Languages" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vue,vite&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite&theme=dark" alt="Frontend" />
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,windows,vscode,github,figma,ai&theme=dark" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,windows,vscode,github,figma,ai,claude&theme=dark" alt="DevOps" />
 </p>
 
 <p align="center">
