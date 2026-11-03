@@ -108,7 +108,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,prisma,laravel&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,laravel&theme=dark" alt="Backend" />
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase,&theme=dark" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,firebase,&theme=dark" alt="Database" />
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,windows,vscode,github,figma,ai,claude&theme=dark" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,windows,vscode,github,figma,ai,docker&theme=dark" alt="DevOps" />
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&theme=dark" alt="AI/ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,matplotlib&theme=dark" alt="AI/ML" />
   <br/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
