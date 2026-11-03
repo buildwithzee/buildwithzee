@@ -135,7 +135,6 @@ Hey, I'm <b>Zean Ananda Pratama</b> — a Computer Science student who builds fu
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,matplotlib&theme=dark" alt="AI/ML" />
   <br/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
 <div align="center">
